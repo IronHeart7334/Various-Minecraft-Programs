@@ -1,0 +1,3 @@
+/summon skeleton ~ ~ ~ {Attributes:[{Name:"generic.followRange",Base:2048}]}
+
+/summon zombie ~ ~ ~ {Attributes:[{Name:"zombie.spawnReinforcements",Base:1.0}]}

@@ -1,0 +1,1 @@
+/fill ~1 63 ~1 ~17 5 ~17 minecraft:air 0 replace minecraft:stone
