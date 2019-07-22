@@ -9,7 +9,7 @@ target = ""
 
 print("Welcome to Matt's Minecraft Datapack install utility")
 while not done:
-    print("Enter the full path to the directory where you wish to install datapacks")
+    print("Enter the full path to the directory where you wish to install datapacks (you don't need quote marks around multi-word folders, nor do you need backquoted spaces)")
     #todo: just enter the world name, this finds the proper directory
     print("(minecraft/saves/WORLD/datapacks)")
     while not isdir(target):
